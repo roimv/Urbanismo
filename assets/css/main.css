@@ -23,7 +23,15 @@
   height: 350px;
 }
 
-
+.contenedorVolver{
+	position: absolute;
+  border-radius: 10px;
+  background: rgba(146, 146, 146, 0.7);
+  top: 550px;
+	left:600px;
+  width: 125px;
+  height: 30px;
+}
 
 /*
 	Aerial by HTML5 UP
